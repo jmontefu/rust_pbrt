@@ -1,0 +1,6 @@
+[package]
+name = "rust_pbrt"
+version = "0.1.0"
+authors = ["John Montefusco <montefusco.john@mgail.com>"]
+
+[dependencies]
